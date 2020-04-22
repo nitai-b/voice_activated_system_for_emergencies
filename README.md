@@ -5,9 +5,9 @@ This is a version of my final year project at UWI. Degree: BSc in Electrical and
 Back then I used an old school style of version control. But these are my files for my basic design. If you need more documentation, I would be happy to provide it. 
 
 # Project Info:
-Supervisor: Professor Stephan G.J. Gift
-Student: Nitai Barran (me)
-Project Name: Voice Activated System for Emergencies (VASE)
+- Supervisor: Professor Stephan G.J. Gift
+- Student: Nitai Barran (me)
+- Project Name: Voice Activated System for Emergencies (VASE)
 
 ## Materials and Software: 
 1. PIC Microcontroller - PIC 18F4620
