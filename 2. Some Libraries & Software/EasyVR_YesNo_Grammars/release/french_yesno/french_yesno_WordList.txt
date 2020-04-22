@@ -1,0 +1,8 @@
+Generated on Wed Dec 23 10:47:04 2015 - GUI 3.1.14
+Project: french_yesno.rsc
+Language: French 3.0.4
+Acoustic Model: French Adults and Kids (478 states)
+
+Phrases:
+1	oui
+2	non

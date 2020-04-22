@@ -1,0 +1,63 @@
+_RETURN_
+CCP_1
+CCP_1_LOW
+CCP_1_HIGH
+CCP_2
+CCP_2_LOW
+CCP_2_HIGH
+PSP_DATA
+C1OUT
+C2OUT
+_Randseed
+@sprintf_string
+reset
+AT
+save
+noecho
+mode_text
+endCall
+ansCall
+current_state
+call_flag
+rx_buff
+temp
+serial_idx
+command_ready
+
+Project Directory:
+    C:\Users\nitai\OneDrive\Documents\Year 3- ECNG 3020- Special Project\2. Designs\0. System Design Code\MPLAB CCS Version\
+
+Project Files:
+    main.c                                                  [29-Mar-17 04:33  CRC=49D6F158]
+    ..\..\..\..\..\..\..\..\Program Files (x86)\PICC\devices\18f4620.h [18-May-16 15:14  CRC=39D640CE]
+    ..\..\..\..\..\..\..\..\Program Files (x86)\PICC\drivers\string.h [26-Mar-15 13:34  CRC=C4814297]
+    ..\..\..\..\..\..\..\..\Program Files (x86)\PICC\drivers\stddef.h [05-Sep-14 12:47  CRC=897CEC6C]
+    ..\..\..\..\..\..\..\..\Program Files (x86)\PICC\drivers\ctype.h [03-Jan-08 15:55  CRC=2D1F019F]
+    ..\..\..\..\..\..\..\..\Program Files (x86)\PICC\drivers\stdlib.h [27-Mar-16 19:10  CRC=59769663]
+    protocol.h                                              [22-Mar-17 14:40  CRC=AB205DB9]
+    groups.h                                                [27-Mar-17 19:45  CRC=62A2828E]
+    ..\..\..\..\..\..\..\..\Program Files (x86)\PICC\drivers\input.c [01-May-13 15:38  CRC=8C3C8665]
+
+Source signature=7E7CE63C
+
+Units:
+    main (main)
+
+Compiler Settings:
+    Processor:      PIC18F4620
+    Pointer Size:   16
+    ADC Range:      0-255
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    ICD Provisions: Yes
+    Output file:    Relocatable
+    Compile Mode:       CCS5
+    Predefined symbols:
+       #define __DEBUG 1
+       #define __18F4620 TRUE
+
+Output Files:
+    Errors:      main.err
+    Object:      main.o
+    Symbols:     main.osym

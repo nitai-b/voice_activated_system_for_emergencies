@@ -1,0 +1,33 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC18F4620
+CCSVersion=5.059
+Compiler=PCH
+[Target Data]
+FileList=main.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\devices\;C:\Program Files (x86)\PICC\drivers\;C:\Users\nitai\OneDrive\Documents\Year 3- ECNG 3020- Special Project\3. Designs\0. System Design Code\MPLAB CCS Version\;C:\Users\nitai\OneDrive\Documents\Year 3- ECNG 3020- Special Project\2. Designs\0. System Design Code\MPLAB CCS Version\
+[main.c]
+Type=4
+[mru-list]
+1=main.c
+[Opened Files]
+1=main.c
+2=..\..\..\..\..\..\..\..\Program Files (x86)\PICC\devices\18f4620.h
+t1=1
+t2=357
+Count=2
+
+[ProjectLog]
+Days=2
+D1=14-03-2017
+D1_L=2
+D1_L1=[55646]Project Opened.
+D1_L2=[57622]Project Closed.
+D2=16-03-2017
+D2_L=2
+D2_L1=[61669]Project Opened.
+D2_L2=[62107]Project Closed.
+[Units]
+Count=1
+1=main (main)

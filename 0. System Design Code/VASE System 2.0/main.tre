@@ -1,0 +1,473 @@
+ÀÄ2
+   ÃÄmain  0/1258  Ram=15
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÃÄgsmSetup  0/76  Ram=0
+   ³  ³  ÃÄ@PSTRINGR_901  0/48  Ram=2
+   ³  ³  ³  ÀÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ³  ÃÄ@PSTRINGR_901  0/48  Ram=2
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PSTRINGR_901  0/48  Ram=2
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÀÄ@PSTRINGR_901  0/48  Ram=2
+   ³  ³     ÀÄ*
+   ³  ÃÄstop_EVR  0/40  Ram=1
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ@delay_ms1  0/40  Ram=1
+   ³  ³  ÀÄprint_debug  0/8  Ram=1
+   ³  ³     ÀÄ@PUTCHAR_3_  0/66  Ram=1
+   ³  ÃÄsetLang  0/44  Ram=2
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÀÄprint_debug  0/8  Ram=1
+   ³  ³     ÀÄ*
+   ³  ÃÄsetTimeout  0/44  Ram=2
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÀÄprint_debug  0/8  Ram=1
+   ³  ³     ÀÄ*
+   ³  ÃÄlistenWS1  0/42  Ram=1
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÀÄms25  0/8  Ram=0
+   ³  ³     ÀÄ*
+   ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD2  0/34  Ram=2
+   ³  ³  ÃÄ@delay_ms1  0/40  Ram=1
+   ³  ³  ÀÄ@delay_ms1  0/40  Ram=1
+   ³  ÃÄblinkD2  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD2  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÃÄ@goto47263  0/78  Ram=0
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÀÄms25  0/8  Ram=0
+   ³  ³     ÀÄ*
+   ³  ÃÄblinkD2  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD2  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄlistenGP1  0/42  Ram=1
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÀÄms25  0/8  Ram=0
+   ³  ³     ÀÄ*
+   ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD0  0/34  Ram=2
+   ³  ³  ÃÄ@delay_ms1  0/40  Ram=1
+   ³  ³  ÀÄ@delay_ms1  0/40  Ram=1
+   ³  ÃÄblinkD0  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD0  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄlistenGP2  0/42  Ram=1
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÀÄms25  0/8  Ram=0
+   ³  ³     ÀÄ*
+   ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD2  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD0  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄ@PSTRINGC_901  0/32  Ram=2
+   ³  ³  ÀÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ÃÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ÃÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄlistenGP3  0/42  Ram=1
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ³  ÀÄ*
+   ³  ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ³  ÀÄms25  0/8  Ram=0
+   ³  ³     ÀÄ*
+   ³  ÃÄ@PUTCHARI_BIU_1  0/8  Ram=0
+   ³  ÃÄms25  0/8  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄplayback  0/1212  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD0  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD0  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD0  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄstrcat  0/106  Ram=9
+   ³  ÃÄstrcat  0/106  Ram=9
+   ³  ÃÄ@PSTRINGR_901  0/48  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ÃÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ÃÄblinkD2  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄblinkD2  0/34  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÀÄblinkD2  0/34  Ram=2
+   ³     ÀÄ*
+   ÃÄdetect_call  0/12  Ram=0
+   ÃÄbutton2  0/66  Ram=2
+   ³  ÃÄ@PSTRINGC_901  0/32  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ÀÄ@PUTCHAR_2_  0/64  Ram=1
+   ÃÄbutton1  0/106  Ram=2
+   ³  ÃÄ@PSTRINGC_901  0/32  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ÃÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ÃÄ@PSTRINGC_901  0/32  Ram=2
+   ³  ³  ÀÄ*
+   ³  ÃÄ@PUTCHAR_2_  0/64  Ram=1
+   ³  ÀÄ@PUTCHAR_2_  0/64  Ram=1
+   ÃÄlive  0/10  Ram=0
+   ÀÄcall_signal  0/50  Ram=2

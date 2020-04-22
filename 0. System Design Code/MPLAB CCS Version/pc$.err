@@ -1,0 +1,21 @@
+>>> Warning 207 "main.c" Line 116(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 125(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 134(1,1): Code has no effect
+>>> Warning 203 "main.c" Line 303(1,1): Condition always TRUE
+>>> Warning 203 "main.c" Line 347(1,1): Condition always TRUE
+*** Error 12 "main.c" Line 795(30,37): Undefined identifier   S_RESET
+*** Error 47 "main.c" Line 798(30,35): Expecting a , or }
+*** Error 48 "main.c" Line 798(37,42): Expecting a (
+*** Error 48 "main.c" Line 798(44,49): Expecting a (
+*** Error 48 "main.c" Line 798(51,65): Expecting a (
+*** Error 43 "main.c" Line 799(1,2): Expecting a declaration
+*** Error 43 "main.c" Line 799(2,3): Expecting a declaration
+*** Error 12 "main.c" Line 813(6,11): Undefined identifier   S_WS4
+*** Error 51 "main.c" Line 816(1,5): A numeric expression must appear here
+*** Error 51 "main.c" Line 819(1,5): A numeric expression must appear here
+*** Error 51 "main.c" Line 822(1,5): A numeric expression must appear here
+*** Error 51 "main.c" Line 825(1,5): A numeric expression must appear here
+*** Error 51 "main.c" Line 828(1,8): A numeric expression must appear here
+*** Error 43 "main.c" Line 833(1,2): Expecting a declaration
+      14 Errors,  5 Warnings.
+Build Failed.

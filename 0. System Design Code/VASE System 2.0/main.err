@@ -1,0 +1,14 @@
+>>> Warning 207 "main.c" Line 135(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 144(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 1140(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 1157(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 1169(1,1): Code has no effect
+>>> Warning 216 "main.c" Line 1488(1,2): Interrupts disabled during call to prevent re-entrancy:  (@PUTCHAR_2_)
+>>> Warning 216 "main.c" Line 1488(1,2): Interrupts disabled during call to prevent re-entrancy:  (@PSTRINGC_901)
+>>> Warning 202 "main.c" Line 30(6,13): Variable never used:   endCall
+>>> Warning 202 "main.c" Line 31(6,13): Variable never used:   ansCall
+>>> Warning 202 "main.c" Line 114(14,22): Variable never used:   messages
+>>> Warning 202 "main.c" Line 115(12,17): Variable never used:   error
+      Memory usage:   ROM=6%      RAM=3% - 3%
+      0 Errors,  11 Warnings.
+Build Successful.

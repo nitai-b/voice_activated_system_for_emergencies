@@ -1,0 +1,8 @@
+Generated on Wed Dec 23 10:46:31 2015 - GUI 3.1.14
+Project: italian_yesno.rsc
+Language: Italian 3.0.2
+Acoustic Model: Italian Adults and Kids (342 states)
+
+Phrases:
+1	si
+2	no

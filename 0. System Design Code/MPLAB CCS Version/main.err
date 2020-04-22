@@ -1,0 +1,7 @@
+>>> Warning 207 "main.c" Line 122(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 131(1,1): Code has no effect
+>>> Warning 207 "main.c" Line 140(1,1): Code has no effect
+>>> Warning 202 "main.c" Line 27(14,19): Variable never used:   reset
+>>> Warning 202 "main.c" Line 894(23,32): Variable never used:   call_flag
+C:\Users\nitai\OneDrive\Documents\Year 3- ECNG 3020- Special Project\2. Designs\0. System Design Code\MPLAB CCS Version\main.o ===>  0 Errors,  5 Warnings.
+Build Successful.
